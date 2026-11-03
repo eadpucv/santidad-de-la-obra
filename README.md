@@ -24,7 +24,7 @@ La tipografía es **Red Hat Mono**, cargada desde Google Fonts. Requiere conexi�
 
 ## Nota editorial
 
-Se conserva el orden de las fuentes disponibles. El escaneo correspondiente a la posición 58 repite el contenido de la página 48; la misma repetición aparece en el PDF consultado. Se presume que falta la página 58 original. Esta edición mantiene la repetición, sin eliminarla, renumerar las páginas ni reconstruir el contenido ausente.
+Se conserva el orden de las fuentes disponibles. La página 58 se incorporó a partir del escaneo correcto recuperado, con su transcripción correspondiente. El PDF consultado conserva en esa posición una repetición de la página 48; esta edición utiliza la página 58 recuperada, sin reconstruir contenido ni alterar la página 48.
 
 ## Derechos
 
